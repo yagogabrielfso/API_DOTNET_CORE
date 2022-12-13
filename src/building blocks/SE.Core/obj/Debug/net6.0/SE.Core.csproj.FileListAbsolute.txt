@@ -1,0 +1,12 @@
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\bin\Debug\net6.0\SE.Core.deps.json
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\bin\Debug\net6.0\SE.Core.dll
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\bin\Debug\net6.0\SE.Core.pdb
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\obj\Debug\net6.0\SE.Core.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\obj\Debug\net6.0\SE.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\obj\Debug\net6.0\SE.Core.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\obj\Debug\net6.0\SE.Core.AssemblyInfo.cs
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\obj\Debug\net6.0\SE.Core.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\obj\Debug\net6.0\SE.Core.dll
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\obj\Debug\net6.0\refint\SE.Core.dll
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\obj\Debug\net6.0\SE.Core.pdb
+C:\Users\gabri\Desktop\ProjetosCSHARP\ProjStoreEnterprise\StoreEnterprise\src\building blocks\SE.Core\obj\Debug\net6.0\ref\SE.Core.dll

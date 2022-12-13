@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SE.Pagamento.API.props" />
+</Project>
