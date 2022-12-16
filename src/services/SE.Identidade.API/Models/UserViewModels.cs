@@ -30,5 +30,31 @@ namespace SE.Identidade.API.Models
         [StringLength(100, ErrorMessage = "O campo {0} precisa ter entre {2} e {1} caracteres", MinimumLength = 6)]
         public string Senha { get; set; }      
     }
-    
+
+    public class UsuarioRespostaLogin // Ao receber a resposta do login, terão as seguintes propriedades:
+    {
+        public string AcessToken { get; set; }
+        public double ExpiresIn { get; set; }
+        public UsuarioToken UsuarioToken { get; set; }
+    }
+
+    public class UsuarioToken
+    {
+        public string Id { get; set; }
+        public string Email { get; set; }
+        public IEnumerable<UsuarioClaim> Claims { get; set; }
+
+    }
+
+    public class UsuarioClaim
+    { 
+        public string Value { get; set; }
+        public string Type { get; set; }
+    }
+
+
+
+
+
+
 }
